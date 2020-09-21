@@ -17,6 +17,8 @@ public class Pruebagit {
     public static void main(String[] args) {
         
         system.out.print("prueba");
+        
+        echo "adeu fins demá";
     }
     
 }
