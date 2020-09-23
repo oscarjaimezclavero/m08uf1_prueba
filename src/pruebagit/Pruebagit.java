@@ -18,7 +18,7 @@ public class Pruebagit {
         
         system.out.print("prueba");
         
-        echo "adeu fins demá";
+        
         
         System.out.println("a ver si se suma un commitS");
     }
